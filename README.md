@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tech Stacks
 
-This project is a starting point for a Flutter application.
+- Clean Architecture
+- Bloc
+- Retrofit
+- Dio
+- Camera
+- Dagger
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/Rohit-554/card_wallet_flutter/assets/48874687/8fa22324-8419-49e7-af67-2b57c8cbc100.gif" width=200, height=400>
+
+
+
+
